@@ -58,5 +58,3 @@
     <td> <p align="center"> <img src = "https://user-images.githubusercontent.com/113531446/192155210-aba23d1a-4a7e-4cdd-9249-bc72b786c1f7.png" width = "80%"> </p> </td>
   </tr>
  </table>
-
-
